@@ -1,3 +1,4 @@
 palm
 eucalyptus
 oak
+pine
